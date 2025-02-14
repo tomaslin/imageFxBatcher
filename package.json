@@ -1,0 +1,14 @@
+{
+  "name": "ai-imager",
+  "version": "1.0.0",
+  "description": "CLI app to automate image generation using Google ImageFX",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "fs-extra": "^11.1.1",
+    "node-fetch": "^3.3.2",
+    "puppeteer": "^24.2.0"
+  }
+}
